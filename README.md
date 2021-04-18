@@ -1,2 +1,2 @@
 # Email-Template
-Email Templates made while Interning with Prabisha Consulting
+Email Templates made while Interning with Prabisha Consulting Pvt.Ltd.
